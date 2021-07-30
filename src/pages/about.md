@@ -1,7 +1,7 @@
 ---
 title: Sobre mi
 subtitle: El tiempo es el mejor maestro...
-img_path: images/about.jpg
+img_path: images/style-guide.jpg
 seo:
   title: About Me
   description: A page about me and my work
