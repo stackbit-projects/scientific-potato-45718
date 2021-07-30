@@ -22,6 +22,7 @@ form_fields:
       - Soporte web
       - Consultoria
       - Sistemas de venta
+      - lorem-ipsum
   - input_type: textarea
     name: message
     label: Message
