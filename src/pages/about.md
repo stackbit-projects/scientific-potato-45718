@@ -1,6 +1,6 @@
 ---
 title: Sobre mi
-subtitle: This is a short page about me and my work
+subtitle: El tiempo es el mejor maestro...
 img_path: images/about.jpg
 seo:
   title: About Me
