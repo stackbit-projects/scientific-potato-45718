@@ -13,7 +13,7 @@ seo:
       value: Hackhit - Dev
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: 'Blog dedicado al desarrollo y buenas prácticas webs. '
       keyName: property
     - name: 'og:image'
       value: images/3961bd12667cea0ae80d73ada64e0fa1.jpg
