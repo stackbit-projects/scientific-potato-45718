@@ -19,7 +19,7 @@ form_fields:
     label: Peticion
     default_value: Por favor seleciona
     options:
-      - Error on the site
+      - Soporte web
       - Sponsorship
       - Other
   - input_type: textarea
