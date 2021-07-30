@@ -28,7 +28,7 @@ form_fields:
     label: Se mas especifico
     default_value: dejame tu mensaje
   - input_type: checkbox
-    name: consent
+    name: consentimiento
     label: >-
       Entiendo que este formulario está almacenando mi información enviada para
       que puedan ser contactados.
