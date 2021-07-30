@@ -9,7 +9,7 @@ excerpt: >-
   Japanese architecture. Largely of wood, traditional housing and many temple
   buildings see the use of tatami mats and sliding doors that break down the
   distinction between rooms and indoor and outdoor space.
-date: '2021-03-11'
+date: '2021-03-02'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
