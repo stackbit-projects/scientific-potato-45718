@@ -68,7 +68,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "reddit",
                 "new_window": false,
                 "no_follow": false,
