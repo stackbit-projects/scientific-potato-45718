@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Dime en que te puedo ayudar
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
