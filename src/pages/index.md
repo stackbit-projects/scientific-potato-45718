@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
+  title: Hackhit - Dev
   description: 'Blog dedicado al desarrollo y buenas prácticas webs. '
   extra:
     - name: 'og:type'
