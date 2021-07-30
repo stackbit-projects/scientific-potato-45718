@@ -20,7 +20,7 @@ form_fields:
     default_value: Por favor seleciona
     options:
       - Soporte web
-      - Sponsorship
+      - null
       - Other
   - input_type: textarea
     name: message
