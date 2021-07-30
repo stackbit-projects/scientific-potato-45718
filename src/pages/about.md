@@ -30,13 +30,16 @@ seo:
       relativeUrl: true
 template: page
 ---
+**Miguel Hernandez**, soy programador de lenguajes emergentes desde hace ya un par de años. De una curiosidad paso a un hobbie, hasta convertirse en mi estilo de vida.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Dedicado a la integración de sistema de información y toda la infraestructura detrás de esta. Dedicado a los sistemas de ventas a empresas del sector mediano, siempre en contacto con mis clientes, son la base de todo desarrollo adaptado y de cumplimiento en cada uno de los requerimientos. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Más de 14 años de experiencias en el software [a2](http://a2.com.ve/) de la casa Softway. Actualmente estamos distribuyendo e instalando un nuevo Sofware. Se trata de Hybrid pos, un software con una profundidad en el soporte y adaptacion y respuesta a las necesidades de los clientes.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+> El mundo siempre parece más brillante cuando acabas de hacer algo que no existía antes. Neil Gaiman
+
+Desarrollando actualmente en React, Vue.js, Python y todo lo que sea una necesidad imperativa para mis clientes.
+
+*Gracias por leerme*
