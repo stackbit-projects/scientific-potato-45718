@@ -60,5 +60,4 @@ seo:
       relativeUrl: true
 template: contact
 ---
-
-To get in touch fill the form below.
+Te responderé lo más pronto posible
