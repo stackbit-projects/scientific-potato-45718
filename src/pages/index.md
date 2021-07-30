@@ -1,7 +1,7 @@
 ---
 title: Inicio
 has_more_link: true
-more_link_text: Mantente de pie
+more_link_text: Sigue adelante
 seo:
   title: Hackhit - Dev
   description: 'Blog dedicado al desarrollo y buenas prácticas webs. '
