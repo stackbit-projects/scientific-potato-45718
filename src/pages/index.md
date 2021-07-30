@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Hackhit - Dev
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: 'Blog dedicado al desarrollo y buenas prácticas webs. '
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
