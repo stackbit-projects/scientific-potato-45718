@@ -21,7 +21,7 @@ form_fields:
     options:
       - Soporte web
       - Consultoria
-      - Other
+      - Sistemas de venta
   - input_type: textarea
     name: message
     label: Message
