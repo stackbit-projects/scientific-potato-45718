@@ -25,7 +25,7 @@ form_fields:
       - Otro motivo
   - input_type: textarea
     name: message
-    label: Message
+    label: Se mas especifico
     default_value: Your message
   - input_type: checkbox
     name: consent
