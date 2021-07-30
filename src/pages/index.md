@@ -16,7 +16,7 @@ seo:
       value: 'Blog dedicado al desarrollo y buenas prácticas webs. '
       keyName: property
     - name: 'og:image'
-      value: images/3961bd12667cea0ae80d73ada64e0fa1.jpg
+      value: images/7.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
