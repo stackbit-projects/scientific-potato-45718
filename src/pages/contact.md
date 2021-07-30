@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: subject
     label: Peticion
-    default_value: Please select
+    default_value: Por favor seleciona
     options:
       - Error on the site
       - Sponsorship
